@@ -23,7 +23,7 @@ export default function Header() {
       >
         <Image
           alt="icons"
-          src="https://raw.githubusercontent.com/Ajay-Dhangar/images/main/icons/favicon.ico"
+          src="../public/favicon.ico"
           className="sm:w-8 sm:h-[27px] w-8 h-[28px]"
           width={32}
           height={28}
