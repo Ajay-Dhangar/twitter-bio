@@ -22,7 +22,7 @@ export default function Header() {
         rel="noreferrer"
       >
         <Image
-          alt="Vercel Icon"
+          alt="icons"
           src="https://raw.githubusercontent.com/Ajay-Dhangar/images/main/icons/favicon.ico"
           className="sm:w-8 sm:h-[27px] w-8 h-[28px]"
           width={32}
