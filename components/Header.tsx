@@ -23,7 +23,7 @@ export default function Header() {
       >
         <Image
           alt="icons"
-          src="../public/favicon.ico"
+          src="https://raw.githubusercontent.com/Ajay-Dhangar/twitter-bio/main/public/favicon.ico?token=GHSAT0AAAAAABRIYY2G2TDJZJWXGUZ6MZCKY6GXALQ"
           className="sm:w-8 sm:h-[27px] w-8 h-[28px]"
           width={32}
           height={28}
