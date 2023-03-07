@@ -2,7 +2,8 @@
 
 This project generates Twitter bios for you using AI.
 
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.twitterbio.com)
+[![Twitter Bio Generator](https://user-images.githubusercontent.com/99037494/223489907-41c72971-17b9-4d19-ab24-c36855b8a339.png)](https://twitter-bio-ajay.vercel.app/)
+
 
 ## How it works
 
